@@ -1,4 +1,4 @@
-# CECS-424-Sp2017---Assignment-5
+# CECS 424 Sp2017 - Assignment #5
 A Fortran 77 Project
 
 ### Author: Mingtau Li
