@@ -1,0 +1,5 @@
+So far, my experiences with fortran has been pretty good.
+It's a little disappointing how fortran 77 doesn't support things we are so used to such as recursion, while loops, various data structures, etc. (although while loops and recursion are possible using workarounds). 
+I also did not like how fortran makes use of columns for comments, gotos, etc.
+But considering fortran was the first programming language, it's understandable. 
+The syntax was actually pretty easy to learn. Once I got the hang of it, the project turned out to be pretty easy. It was still a hassle though, to do some of the simplest things in Fortran77. I am happy for modern programming languages. 
