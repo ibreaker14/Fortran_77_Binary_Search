@@ -1,5 +1,4 @@
-# CECS 424 Sp2017 - Assignment #5
-A Fortran 77 Project
+# Fortran 77 Bubble Sort + Binary Search
 
 ### Author: Mingtau Li
 ### SID: 011110539
